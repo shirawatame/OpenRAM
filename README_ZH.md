@@ -24,10 +24,9 @@ OpenRAM 是一个屡获殊荣的开源 Python 框架，用于创建布局，
 
 请参阅我们的 [documentation][documentation] ，如果有任何需要，请告诉我们更新。
 updating.
- [文档][文档]
 
 
-# Get Involved
+# 参与其中
 
 + [Port it](./PORTING.md) to a new technology
 + Report bugs by submitting [Github issues]
@@ -38,7 +37,7 @@ updating.
 
 
 
-# Further Help
+# 进一步的帮助
 
 + [Documentation][documentation]
 + [OpenRAM Slack Workspace][Slack]
@@ -47,13 +46,13 @@ updating.
 
 
 
-# License
+# 许可证
 
-OpenRAM is licensed under the [BSD 3-Clause License](./LICENSE).
+OpenRAM在 [BSD 3-Clause License](./LICENSE)下获得许可
 
 
 
-# Publications
+# 出版
 
 + [M. R. Guthaus, J. E. Stine, S. Ataei, B. Chen, B. Wu, M. Sarwar, "OpenRAM: An Open-Source Memory Compiler," Proceedings of the 35th International Conference on Computer-Aided Design (ICCAD), 2016.](https://escholarship.org/content/qt8x19c778/qt8x19c778_noSplash_b2b3fbbb57f1269f86d0de77865b0691.pdf)
 + [S. Ataei, J. Stine, M. Guthaus, "A 64 kb differential single-port 12T SRAM design with a bit-interleaving scheme for low-voltage operation in 32 nm SOI CMOS," International Conference on Computer Design (ICCD), 2016, pp. 499-506.](https://escholarship.org/uc/item/99f6q9c9)
